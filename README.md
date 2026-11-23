@@ -24,4 +24,4 @@ Currently pursuing Master of Data Science at Charles Darwin University, Sydney c
 ## Right now
 
 Working with some train stuff, some solar stuff, some agentic stuff.
-The repositories below have the detail. Start with whatever piques your interest. Like something? Send me a hi @ <myfirstname>@fuzn.com.au.
+The repositories below have the detail. Start with whatever piques your interest. Like something? Send me a hi at myfirstname@fuzn.com.au.
